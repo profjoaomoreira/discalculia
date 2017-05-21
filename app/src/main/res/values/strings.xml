@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculei!</string>
+
+    <string name="dummy_button">Botão</string>
+    <string name="dummy_content"></string>
+
+    <string name="title_activity_tela_jogo">Vou calcular!</string>
+
+    <string name="title_activity_tela_ranking">TelaRanking</string>
+</resources>
